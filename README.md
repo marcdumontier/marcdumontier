@@ -2,5 +2,4 @@
 
 
 
-<img align="center" alt="Rafa-Js" height="30" width="40" src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg">
+<img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg">
