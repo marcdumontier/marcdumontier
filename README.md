@@ -1,6 +1,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcdumontier&theme=tokyonight)
 
-<table border="0">
+
+![Marc'sActivity Graph](https://activity-graph.herokuapp.com/graph?username=marcdumontier&custom_title=Marc%27s%20Contribution%20Graph&theme=nord&bg_color=282828&hide_border=true&line=5E35B1&point=5E35B1)
+
+
+<table border="0" width="100%">
 <tr>
   <td>
     
@@ -37,8 +41,6 @@
 </table>
 
 
-
-![Marc'sActivity Graph](https://activity-graph.herokuapp.com/graph?username=marcdumontier&custom_title=Marc%27s%20Contribution%20Graph&theme=nord&bg_color=282828&hide_border=true&line=5E35B1&point=5E35B1)
 
 ### Current Areas of Focus
 * Sidekiq/Redis - Utilizing these tools for a Large scale, multi-priority, background job processing framework to import EMR data.
