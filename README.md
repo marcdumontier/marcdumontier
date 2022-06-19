@@ -36,3 +36,16 @@
   </tr>
 </table>
 
+### Current Areas of Focus
+* Sidekiq/Redis - Utilizing these tools for a Large scale, multi-priority, background job processing framework to import EMR data.
+* Automation - building tools using Docker, Kubernetes, Helm, GitHub Actions, Cloudbuild, Pub/Sub, etc.
+* Mirth - Building an efficient, easy to deploy, containerized version of Mirth to create lab workflows ending in CHR.
+
+### Workstreams / Teams I participate in
+* DCE Team - Team Lead / Sr. Engineer
+* Lab Team - Technical Lead
+* Architecture Working Group (AWG)
+* Data Modelling Group
+* CHR Releases / Hotfixes
+* Operational Support (CHR)
+* DevOps
